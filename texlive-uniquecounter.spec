@@ -1,6 +1,6 @@
 Name:		texlive-uniquecounter
 Version:	53162
-Release:	1
+Release:	2
 Summary:	Provides unlimited unique counter
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uniquecounter
